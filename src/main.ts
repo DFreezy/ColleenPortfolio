@@ -6,6 +6,7 @@ import { AboutComponent } from './app/components/about.component';
 import { ExperienceComponent } from './app/components/experience.component';
 import { SkillsComponent } from './app/components/skills.component';
 import { ContactComponent } from './app/components/contact.component';
+import { CertificatesComponent } from './app/components/certificates.components';
 
 @Component({
   selector: 'app-root',
@@ -15,6 +16,7 @@ import { ContactComponent } from './app/components/contact.component';
     HeroComponent,
     AboutComponent,
     ExperienceComponent,
+    CertificatesComponent,
     SkillsComponent,
     ContactComponent
   ],
@@ -24,6 +26,7 @@ import { ContactComponent } from './app/components/contact.component';
       <app-hero></app-hero>
       <app-about></app-about>
       <app-experience></app-experience>
+      <app-certificates></app-certificates>
       <app-skills></app-skills>
       <app-contact></app-contact>
     </main>
