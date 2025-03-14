@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
     <section class="bg-gradient-to-r from-primary to-secondary text-white py-20">
       <div class="container mx-auto px-6 text-center">
         <img 
-          src="Colleen.jpg"
+          src="assets/images/Colleen.jpg"
           alt="Profile Photo"
           class="rounded-full w-32 h-32 mx-auto mb-6 border-4 border-white shadow-xl"
         />
