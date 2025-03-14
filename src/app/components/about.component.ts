@@ -34,6 +34,17 @@ import { Component } from '@angular/core';
         </div>
       </div>
     </section>
+    <section id="vision" class="py-20 bg-bg-light">
+  <div class="container mx-auto px-6">
+    <h2 class="section-title text-center text-text-primary">Vision</h2>
+    <p class="text-lg mb-6 text-text-primary">
+      My vision is to lead high-performing teams in delivering impactful, innovative solutions that drive business success and create lasting value for clients. I aim to continuously enhance my ability to navigate complex project landscapes, embrace emerging technologies, and foster a collaborative environment where stakeholders, teams, and clients are aligned toward shared goals.
+    </p>
+    <p class="text-lg mb-6 text-text-primary">
+      Ultimately, I strive to be a trusted leader in project delivery, known for my commitment to excellence, integrity, and the ability to turn challenges into opportunities.
+    </p>
+  </div>
+</section>
   `
 })
 export class AboutComponent {}
